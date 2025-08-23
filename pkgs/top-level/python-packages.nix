@@ -9435,6 +9435,8 @@ self: super: with self; {
 
   mmpython = callPackage ../development/python-modules/mmpython { };
 
+  mmry = callPackage ../development/python-modules/mmry { };
+
   mmtf-python = callPackage ../development/python-modules/mmtf-python { };
 
   mne = callPackage ../development/python-modules/mne { };

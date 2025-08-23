@@ -22158,6 +22158,12 @@
     github = "rski";
     githubId = 2960312;
   };
+  rskottap = {
+    name = "Ramya Kottapalli";
+    email = "rskottap@gmail.com";
+    github = "rskottap";
+    githubId = 71076624;
+  };
   rsniezek = {
     email = "radoslaw.sniezek@protonmail.com";
     github = "rsniezek";
